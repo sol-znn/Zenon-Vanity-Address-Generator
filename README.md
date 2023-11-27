@@ -1,4 +1,8 @@
-# Zenon Vanity Address Generator
+# Archived
+### This repository has been replaced by [Zenon Address Generator](https://github.com/Sol-Sanctum/znn-address-generator)
+----
+
+### Zenon Vanity Address Generator
 
 Written in Dart, requires the [ZNN Dart SDK](https://github.com/zenon-network/znn_sdk_dart).
 
